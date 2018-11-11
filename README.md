@@ -7,6 +7,6 @@ This is a part of my journey in learning data science in 3 months as proposed by
 
 This will be helpful for beginners who are learning machine learning .
 
-This is a '''code'''
+This is a 'code'
 
 
