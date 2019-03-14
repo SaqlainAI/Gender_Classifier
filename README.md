@@ -3,9 +3,6 @@ Using the height and weight attributes of a person ,we will predict the gender o
 
 The dataset can be found [ here ](https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex).
 
-This is a part of my journey in learning data science in 3 months as proposed by [Siraj Raval](https://www.youtube.com/watch?v=9rDhY1P3YLA).
-
-
 
 
 
